@@ -1,1 +1,2 @@
-* linguist-language=Binary
+*.html linguist-detectable=false
+* lingust-language=Binary
