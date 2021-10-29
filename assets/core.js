@@ -1,4 +1,4 @@
-function UaF(a){
+function wufbc(a){
     var pivotAdress             = 17489356;
     //5.5.2
     {
