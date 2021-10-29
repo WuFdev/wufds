@@ -10,3 +10,10 @@ please follow the license
 
 # W.U.F.D.S. banned list
 no one added thankfully
+
+# W.U.F.D.S. languages
+JavaScript
+
+HTML
+
+W.U.F.B.C. binary
